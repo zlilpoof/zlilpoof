@@ -11,14 +11,10 @@ e desde então, programação é minha paixão
 
 ---
 
-<summary> Entre em contato🤝: </summary>  
-
-<br/>
-
 
 
 <a href="https://linkedin.com/in/dave-bhandari-4a74761a7/">
-  <img align="left" alt="Dave's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
+  <img align="center" alt="Dave's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
 </a>
 
 <br/>
