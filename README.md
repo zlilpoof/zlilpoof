@@ -12,21 +12,10 @@ e desde então, programação é minha paixão
 ---
 
 
-
-<a href="https://linkedin.com/in/dave-bhandari-4a74761a7/">
-  <img align="center" alt="Dave's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
-</a>
-
-<br/>
-
-</details>
-
----
-
 ### Tecnologias ✔:
 
 <a href="https://github.com/zlilpoof">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zlilpoof&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zlilpoof&theme=tokyonight" />
   </a>
 
 <br/>
