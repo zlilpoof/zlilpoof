@@ -2,7 +2,8 @@
 
 Sou um desenvolvedor apaixonado por programação e tudo que a envolve. <br/>
 Minha jornada na programação começou aos 12 anos quando descobri o Java,
-e desde então, programação é minha paixão.
+e desde então, programação é minha paixão. <br/>
+🎓 Engenharia de Software | Universidade Anhanguera 🎓
 
 ---
 <br/>
