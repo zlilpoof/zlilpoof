@@ -8,7 +8,7 @@ e desde então, programação é minha paixão. <br/>
 ---
 <br/>
 
-Tecnologias ✔
+###Tecnologias ✔
 
 <a href="https://github.com/zlilpoof">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zlilpoof&theme=vision-friendly-dark" />
