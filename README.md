@@ -5,7 +5,6 @@ Minha jornada na programação começou aos 12 anos quando descobri o Java,
 e desde então, programação é minha paixão
 
 <br/>
----
 
 ### Tecnologias ✔
 
