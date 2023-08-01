@@ -19,7 +19,7 @@ e desde então, programação é minha paixão
   </a>
 
 <a href="https://github.com/zlilpoof">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=zlilpoof&theme=vision-friendly-dark&show_icons=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=zlilpoof&theme=vision-friendly-dark&show_icons=true&rank_icon=github" />
   </a>
 
   
