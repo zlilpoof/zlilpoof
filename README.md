@@ -5,7 +5,6 @@ Sou um desenvolvedor apaixonado por programação e tudo que a envolve.
 Minha jornada na programação começou aos 12 anos quando descobri o Java,
 e desde então, programação é minha paixão
 
-<img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
 
 
 <br/>
