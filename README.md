@@ -7,7 +7,6 @@ e desde então, programação é minha paixão
 ---
 <br/>
 
-
 ### Tecnologias ✔
 
 <a href="https://github.com/zlilpoof">
