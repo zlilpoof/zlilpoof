@@ -6,20 +6,3 @@ e desde então, programação é minha paixão. <br/>
 🎓 Engenharia de Software | Universidade Anhanguera 🎓
 
 ---
-<br/>
-
-### Tecnologias ✔
-
-<a href="https://github.com/zlilpoof">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zlilpoof&theme=vision-friendly-dark" />
-  </a>
-
-<a href="https://github.com/zlilpoof">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=zlilpoof&theme=vision-friendly-dark&show_icons=true&rank_icon=github" />
-  </a>
-
-  
-
-<br/>
-<br/>
-<br/>
